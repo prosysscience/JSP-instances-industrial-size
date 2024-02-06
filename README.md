@@ -24,7 +24,7 @@ This repository includes the following files/folders:
 
 ## Usage
 
-The script for running our scheduling encoding and instances relies on the Python libraries of [Clingo](https://potassco.org/clingo/) and [Clingo[DL]](https://potassco.org/labs/clingodl/). The following example call illustrates run, with time limits of 21600 seconds (6 hours) for makespan minimization.
+The script for running our scheduling encoding and instances relies on the Python (3.9.18) libraries of [Clingo] (5.6.2) (https://potassco.org/clingo/) and [Clingo[DL]] (1.4.0)(https://potassco.org/labs/clingodl/). The following example call illustrates run, with time limits of 21600 seconds (6 hours) for makespan minimization.
 
 
 - :
