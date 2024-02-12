@@ -28,7 +28,16 @@ The script for running our scheduling encoding and instances relies on the Pytho
 
 
 - :
-    - ``./main.py encoding.lp instances/tai_j100_m100_1.lp ``
+    - ``./main.py encoding.lp instances/100 x 100/M-EST/tai_j100_m100_1.lp ``
     - ``...``
-    - ``./main.py encoding.lp instances/tai_j100_m100_10.lp ``
+    - ``./main.py encoding.lp instances/100 x 100/M-EST/tai_j100_m100_10.lp ``
+    - ``./main.py encoding.lp instances/100 x 100/T-EST/tai_j100_m100_1.lp ``
+    - ``...``
+    - ``./main.py encoding.lp instances/100 x 100/T-EST/tai_j100_m100_10.lp ``
+    - ``./main.py encoding.lp instances/100 x 100/M-MTWR/tai_j100_m100_1.lp ``
+    - ``...``
+    - ``./main.py encoding.lp instances/100 x 100/M-MTWR/tai_j100_m100_10.lp ``
+    - ``./main.py encoding.lp instances/100 x 100/T-MTWR/tai_j100_m100_1.lp ``
+    - ``...``
+    - ``./main.py encoding.lp instances/100 x 100/T-MTWR/tai_j100_m100_10.lp ``
 
